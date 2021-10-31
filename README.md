@@ -1,4 +1,6 @@
-### Hola!, soy [Eliel Medina][website]👋
+### Hola!, soy [Eliel Medina][website] 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ELielm92?color=%231DA1F2&label=Eliel%20%E2%9A%A1%20Medina&logo=twitter&style=for-the-badge)](https://twitter.com/ElielM92)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
