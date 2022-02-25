@@ -2,17 +2,13 @@
 
 ### Hola!, soy [Eliel][website] 👋
 
-</div>
-
-<div align="center">
-
-### 📞Háblame por aquí
+### 📞 Háblame por aquí
 
 [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/ElielM92) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/eliel-m/) [![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:elielm291@gmail.com)
 
-</div>
 
 ### 👨‍💻 Front-End Jr.
+</div>
 
 - 🌱 Estoy aprendiendo más sobre desarrollo web.
 - 💬 Pregúntame lo que quieras
