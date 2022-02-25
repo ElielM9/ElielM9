@@ -1,32 +1,41 @@
-### Hola!, soy [Eliel Medina][website] 👋
+### Hola!, soy [Eliel][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ELielm92?color=%231DA1F2&label=Eliel%20%E2%9A%A1%20Medina&logo=twitter&style=for-the-badge)](https://twitter.com/ElielM92)
+### 📞 Háblame por aquí
+
+<p align="center">
+
+[![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/ElielM92) 
+
+[![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/eliel-m/)
+
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:elielm291@gmail.com)
+
+</p>
 
 ### 👨‍💻 Front-End Jr.
 
-- 🌱 Estoy aprendiendo más sobre Desarrollo Web
-- 💬 Pregúntame sobre lo que sea
+- 🌱 Estoy aprendiendo más sobre desarrollo web.
+- 💬 Pregúntame lo que quieras
 - 😄 Pronombres: He/Then
-- ⚡ Yo: Amo los videojuegos, la música y filosofía
+- ⚡ Amo los videojuegos, la música y filosofía
 
 ---
 
-### 💻 Coding
+### 💻 Tecnologías que uso
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<p align="center">
 
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
 
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="javaSscript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<br/>
+</p>
 
 ---
+
 <!-- LINKS -->
 
 [website]: https://elielmedina.netlify.app/
