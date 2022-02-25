@@ -1,8 +1,12 @@
+<div align="center">
+
 ### Hola!, soy [Eliel][website] 👋
 
-### 📞Háblame por aquí
+</div>
 
 <div align="center">
+
+### 📞Háblame por aquí
 
 [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/ElielM92) [![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/eliel-m/) [![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:elielm291@gmail.com)
 
@@ -17,7 +21,11 @@
 
 ---
 
+<div align="center">
+
 ### 💻 Tecnologías que uso
+
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -33,9 +41,9 @@
 
 ---
 
-<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielM9&layout=compact&langs_count=7&theme=dark">
-</div>
+
+---
 
 <!-- LINKS -->
 
